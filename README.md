@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="[https://github.com/Raif-Tanjim](https://github.com/Raif-Tanjim)"><img src="[https://img.shields.io/badge/OPERATOR-Raif--Tanjim-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=090D16](https://img.shields.io/badge/OPERATOR-Raif--Tanjim-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=090D16)"/></a>
-<img src="[https://img.shields.io/badge/DOMAIN-AI_%26_Robotics-818CF8?style=for-the-badge&logo=ros&logoColor=white&labelColor=090D16](https://img.shields.io/badge/DOMAIN-AI_%26_Robotics-818CF8?style=for-the-badge&logo=ros&logoColor=white&labelColor=090D16)"/>
-<img src="[https://img.shields.io/badge/ORIGIN-Bangladesh-34D399?style=for-the-badge&labelColor=090D16](https://img.shields.io/badge/ORIGIN-Bangladesh-34D399?style=for-the-badge&labelColor=090D16)"/>
-<img src="[https://img.shields.io/badge/STATUS-ONLINE-38BDF8?style=for-the-badge&labelColor=090D16](https://img.shields.io/badge/STATUS-ONLINE-38BDF8?style=for-the-badge&labelColor=090D16)"/>
+<a href="https://github.com/Raif-Tanjim"><img src="https://img.shields.io/badge/OPERATOR-Raif--Tanjim-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=090D16"/></a>
+<img src="https://img.shields.io/badge/DOMAIN-AI_%26_Robotics-818CF8?style=for-the-badge&logo=ros&logoColor=white&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ORIGIN-Bangladesh-34D399?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-38BDF8?style=for-the-badge&labelColor=090D16"/>
 
 <br/><br/>
 
@@ -18,27 +18,27 @@
 </div>
 
 <pre><code class="language-yaml">Name:       Raif Tanjim
-Role:       AI & Robotics Systems Researcher
+Role:       Robotics Engineer & AI Researcher (ReGed)
+Education:  B.Sc. in EEE (Intelligent Robotics & Automation) — AIUB
 Origin:     Dhaka, Bangladesh 🇧🇩
-Primary:    Python / C++ / ROS2 / PyTorch / OpenCV
+Primary:    Python / C++ / ROS & ROS2 / PyTorch / OpenCV
 Domains:    Robotics, Computer Vision, Machine Learning, Forecasting
-Focus:      Embodied Intelligence & Decision-Making Under Uncertainty
-Collab:     Research Labs, PhD Supervision & Global R&D Teams
+Focus:      Safe Embodied AI, Sim-to-Real & Decision-Making Under Uncertainty
 Status:     ONLINE 🟢</code></pre>
 
-### 🧭 Research Vision — Where AI Meets Physical Embodiment
+### 🧭 Research Vision — Bridging AI Simulation & Physical Deployment
 
-> *"True machine intelligence emerges when perception, predictive reasoning, and physical action operate as one unified loop—enabling robots to understand, anticipate, and safely collaborate in an uncertain human world."*
+> *"Building and testing physical robots revealed how sensor noise, localization drift, and the gap between simulation and reality challenge autonomy—driving my goal to fuse AI perception, learning, and control into reliable real-world machines."*
 
-My work sits at the intersection of **Artificial Intelligence and Autonomous Robotics**, focused on making physical machines smarter, more perceptive, and adaptive to real-world unpredictability. Rather than treating perception, forecasting, and control as isolated tasks, I investigate how **computer vision**, **spatiotemporal machine learning**, and **reinforcement learning** fuse together inside **ROS2 and 3D simulation environments** to give robots spatial awareness and foresight.
+My work sits at the intersection of **Artificial Intelligence and Physical Robotics**, focused on developing intelligent systems that operate safely and reliably in uncertain, dynamic environments alongside people, peer robots, and physical obstacles.
 
-Whether building multi-sensor SLAM and socially aware navigation pipelines for autonomous agents or developing deep learning models for fault diagnosis and time-series forecasting, my goal is to bridge mathematical rigor with deployable, resilient intelligent systems.
+Rather than stopping at idealized simulations, I design end-to-end pipelines that connect **AI robotics simulation** (**Webots, Gazebo, Unity, MATLAB/Simulink**) with **physical embedded deployment** (**ROS/ROS2, LiDAR, IMU, Raspberry Pi, ESP32, STM32**). Across my research and engineering projects, I combine **computer vision**, **multi-sensor SLAM**, **reinforcement learning (PPO/MPC)**, and **time-series forecasting** to give physical platforms situational awareness, predictive foresight, and adaptive autonomy.
 
 <div align="center">
 
 <br/>
 
-<img src="assets/embodied-pipeline.svg" width="94%" alt="Embodied Intelligence Closed-Loop Architecture: Perception, Prediction, Reasoning, Embodiment"/>
+<img src="assets/embodied-pipeline.svg" width="94%" alt="Safe & Reliable Embodied AI: Perception, Prediction, Control & RL, Sim-to-Real"/>
 
 <br/><br/>
 
@@ -46,43 +46,59 @@ Whether building multi-sensor SLAM and socially aware navigation pipelines for a
 
 <img src="assets/title-arsenal.svg" width="100%" alt="02 // SYSTEM ARSENAL & STACK"/>
 
-### 🤖 Core Languages & AI / Robotics Frameworks
-<img src="[https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,ros,opencv,matlab&perline=8&theme=dark](https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,ros,opencv,matlab&perline=8&theme=dark)" alt="Python, C++, C, PyTorch, TensorFlow, ROS, OpenCV, MATLAB"/>
-
-<sub>Python • C++ • ROS / ROS2 • PyTorch • TensorFlow • OpenCV • Scikit-Learn • Gymnasium / RL • MATLAB</sub>
+### 🤖 Languages, Robotics & AI Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-090D16?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-090D16?style=for-the-badge&logo=cplusplus&logoColor=818CF8" alt="C++"/>
+  <img src="https://img.shields.io/badge/Embedded_C-090D16?style=for-the-badge&logo=c&logoColor=34D399" alt="Embedded C"/>
+  <img src="https://img.shields.io/badge/ROS_/_ROS2-090D16?style=for-the-badge&logo=ros&logoColor=38BDF8" alt="ROS / ROS2"/>
+  <img src="https://img.shields.io/badge/PyTorch-090D16?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-090D16?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-090D16?style=for-the-badge&logo=opencv&logoColor=34D399" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-090D16?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/MATLAB_/_Simulink-090D16?style=for-the-badge&logo=mathworks&logoColor=38BDF8" alt="MATLAB"/>
+</p>
 
 ### 🛰️ Core Research & Engineering Pillars
 <table align="center">
 <tr>
-<td align="center" width="25%"><b>🦾 Robotics</b><br/><sub>ROS2 • SLAM • Sensor Fusion • Navigation</sub></td>
-<td align="center" width="25%"><b>👁️ Computer Vision</b><br/><sub>Object Detection • Tracking • 3D Perception</sub></td>
-<td align="center" width="25%"><b>🧠 Machine Learning</b><br/><sub>Deep Learning • RL • Fault Diagnosis</sub></td>
-<td align="center" width="25%"><b>📈 Forecasting</b><br/><sub>Time-Series • Spatiotemporal Modeling</sub></td>
+<td align="center" width="25%"><b>🦾 Robotics</b><br/><sub>ROS/ROS2 • LiDAR SLAM • Sensor Fusion • Navigation</sub></td>
+<td align="center" width="25%"><b>👁️ Computer Vision</b><br/><sub>Object Detection • Thermal Vision • Defect Inspection</sub></td>
+<td align="center" width="25%"><b>🧠 Machine Learning</b><br/><sub>Deep Learning • RL (PPO/MPC) • Fault Diagnosis</sub></td>
+<td align="center" width="25%"><b>📈 Forecasting</b><br/><sub>Multi-Output LSTM • Time-Series &amp; Digital Twins</sub></td>
 </tr>
 </table>
 
-### 🛠️ Simulation, Edge & DevOps
-<img src="[https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode&perline=6&theme=dark](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode&perline=6&theme=dark)" alt="Linux, Ubuntu, Docker, Git, GitHub, VS Code"/>
+### 🛠️ Simulation, Digital Twins & Embedded Hardware
+<p>
+  <img src="https://img.shields.io/badge/Webots-090D16?style=for-the-badge&logo=robotframework&logoColor=38BDF8" alt="Webots"/>
+  <img src="https://img.shields.io/badge/Gazebo-090D16?style=for-the-badge&logo=gazebo&logoColor=818CF8" alt="Gazebo"/>
+  <img src="https://img.shields.io/badge/Unity-090D16?style=for-the-badge&logo=unity&logoColor=F8FAFC" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-090D16?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/ESP32_/_STM32-090D16?style=for-the-badge&logo=espressif&logoColor=34D399" alt="ESP32 / STM32"/>
+  <img src="https://img.shields.io/badge/Arduino-090D16?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Linux_(Ubuntu)-090D16?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu Linux"/>
+  <img src="https://img.shields.io/badge/Git_/_GitHub-090D16?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git"/>
+</p>
 
-<sub>Linux / Ubuntu • Isaac Lab / Gazebo / RViz2 • Docker • Git &amp; GitHub Actions • Embedded Edge Deployment</sub>
+<sub>LiDAR • IMU • Thermal Imaging (MLX90640) • Hardware-in-the-Loop Testing • SolidWorks • AutoCAD</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/title-matrix.svg" width="100%" alt="03 // RESEARCH & CAPABILITY MATRIX"/>
 
-<img src="assets/skills.svg" width="88%" alt="Capability Matrix: Machine Learning, Forecasting, Robotics, Computer Vision, LiDAR SLAM, Reinforcement Learning"/>
+<img src="assets/skills.svg" width="88%" alt="Capability Matrix: Robotics, LiDAR SLAM, Computer Vision, Machine Learning, RL Control, Embedded Hardware"/>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/title-telemetry.svg" width="100%" alt="04 // GITHUB TELEMETRY"/>
 
-<img width="49%" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raif-Tanjim&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raif-Tanjim&theme=tokyonight)" alt="GitHub profile details"/>
-
-<img src="[https://streak-stats.demolab.com?user=Raif-Tanjim&theme=tokyonight&hide_border=true&border_radius=10&background=090D16](https://streak-stats.demolab.com?user=Raif-Tanjim&theme=tokyonight&hide_border=true&border_radius=10&background=090D16)" width="70%" alt="GitHub streak"/>
-
-<img width="32%" src="[https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raif-Tanjim&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raif-Tanjim&theme=tokyonight)" alt="Repos per language"/>
-<img width="32%" src="[https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raif-Tanjim&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raif-Tanjim&theme=tokyonight)" alt="Most used languages"/>
-<img width="32%" src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raif-Tanjim&theme=tokyonight&utcOffset=6](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raif-Tanjim&theme=tokyonight&utcOffset=6)" alt="Productive time (UTC+6)"/>
+<p>
+  <img src="https://img.shields.io/github/followers/Raif-Tanjim?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=090D16" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Raif-Tanjim?label=TOTAL_STARS&style=for-the-badge&color=818CF8&labelColor=090D16" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/PUBLICATIONS-7_PEER--REVIEWED-34D399?style=for-the-badge&labelColor=090D16" alt="7 Peer-Reviewed Publications"/>
+  <img src="https://img.shields.io/badge/TIMEZONE-UTC%2B6_(DHAKA)-38BDF8?style=for-the-badge&labelColor=090D16" alt="Timezone UTC+6"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -93,48 +109,49 @@ Whether building multi-sensor SLAM and socially aware navigation pipelines for a
 <td width="25%" align="center">
 
 ### 🦾 Robotics
-Autonomous navigation, LiDAR SLAM &amp; multi-agent coordination
+LiDAR SLAM, sensor fusion &amp; autonomous mobile navigation
 
 </td>
 <td width="25%" align="center">
 
 ### 👁️ Vision
-Real-time visual perception, tracking &amp; scene understanding
+Thermal imaging, defect inspection &amp; real-time perception
 
 </td>
 <td width="25%" align="center">
 
 ### 🧠 Machine Learning
-Reinforcement learning &amp; intelligent fault diagnosis
+RL (PPO/MPC), fault diagnosis &amp; edge anomaly detection
 
 </td>
 <td width="25%" align="center">
 
 ### 📈 Forecasting
-Spatiotemporal &amp; multivariate time-series prediction
+Multi-output LSTM &amp; cyber-physical digital twin modeling
 
 </td>
 </tr>
 </table>
 
-<sub>Active objective: scaling reproducible ROS2 autonomy pipelines, vision-guided control, and open research artifacts.</sub>
+<sub>Active objective: bridging AI robotics simulation (Webots/Gazebo) with physical hardware deployment under real-world uncertainty.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/title-uplink.svg" width="100%" alt="06 // ESTABLISH UPLINK"/>
 
-Always open to research collaborations, graduate lab discussions, and challenging robotics, vision &amp; ML engineering problems.
+Always open to research collaborations, PhD supervision discussions, and challenging robotics, vision &amp; AI engineering problems.
 
 <br/>
 
-<a href="[https://raif-tanjim.github.io](https://raif-tanjim.github.io)"><img src="[https://img.shields.io/badge/Portfolio-090D16?style=for-the-badge&logo=googlechrome&logoColor=38BDF8](https://img.shields.io/badge/Portfolio-090D16?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)" alt="Portfolio"/></a>
-<a href="[https://scholar.google.com](https://scholar.google.com)"><img src="[https://img.shields.io/badge/Google_Scholar-090D16?style=for-the-badge&logo=googlescholar&logoColor=818CF8](https://img.shields.io/badge/Google_Scholar-090D16?style=for-the-badge&logo=googlescholar&logoColor=818CF8)" alt="Google Scholar"/></a>
-<a href="[https://linkedin.com/in/raif-tanjim-883272271](https://linkedin.com/in/raif-tanjim-883272271)"><img src="[https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8)" alt="LinkedIn"/></a>
-<a href="[https://github.com/Raif-Tanjim?tab=repositories](https://github.com/Raif-Tanjim?tab=repositories)"><img src="[https://img.shields.io/badge/Explore_Repos-34D399?style=for-the-badge&logo=github&logoColor=090D16](https://img.shields.io/badge/Explore_Repos-34D399?style=for-the-badge&logo=github&logoColor=090D16)" alt="Explore Repositories"/></a>
+<a href="https://raif-tanjim.github.io"><img src="https://img.shields.io/badge/Portfolio-090D16?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
+<a href="https://www.researchgate.net/profile/Raif-Tanjim"><img src="https://img.shields.io/badge/ResearchGate-090D16?style=for-the-badge&logo=researchgate&logoColor=34D399" alt="ResearchGate"/></a>
+<a href="https://linkedin.com/in/raif-tanjim-883272271"><img src="https://img.shields.io/badge/LinkedIn-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
+<a href="mailto:raiftanjim@gmail.com"><img src="https://img.shields.io/badge/Email-090D16?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email"/></a>
+<a href="https://github.com/Raif-Tanjim?tab=repositories"><img src="https://img.shields.io/badge/Repositories-34D399?style=for-the-badge&logo=github&logoColor=090D16" alt="Repositories"/></a>
 
 <br/><br/>
 
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E1B4B,100:090D16&height=165&section=footer&text=PERCEIVE%20%E2%80%A2%20REASON%20%E2%80%A2%20NAVIGATE%20%E2%80%A2%20FORECAST&fontSize=24&fontColor=34D399&fontAlignY=65&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E1B4B,100:090D16&height=165&section=footer&text=PERCEIVE%20%E2%80%A2%20REASON%20%E2%80%A2%20NAVIGATE%20%E2%80%A2%20FORECAST&fontSize=24&fontColor=34D399&fontAlignY=65&animation=twinkling)" alt="Perceive, Reason, Navigate, Forecast"/>
+<img src="assets/footer.svg" width="100%" alt="Perceive, Reason, Navigate, Deploy"/>
 
 <sub>▶ Sense • Perceive • Predict • Control • Deploy • Iterate ◀</sub>
 
