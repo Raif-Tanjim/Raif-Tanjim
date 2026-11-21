@@ -18,17 +18,17 @@
 </div>
 
 <pre><code class="language-yaml">Name:       Raif Tanjim
-Role:       Robotics Engineer & AI Researcher (ReGed)
+Role:       Robotics Engineer & AI Researcher 
 Education:  B.Sc. in EEE (Intelligent Robotics & Automation) — AIUB
 Origin:     Dhaka, Bangladesh 🇧🇩
 Primary:    Python / C++ / ROS & ROS2 / PyTorch / OpenCV
 Domains:    Robotics, Computer Vision, Machine Learning, Forecasting
-Focus:      Safe Embodied AI, Sim-to-Real & Decision-Making Under Uncertainty
+Focus:      Safe Embodied AI, Sim-to-Real, Multi-Robot & Decision-Making Under Uncertainty
 Status:     ONLINE 🟢</code></pre>
 
 ### 🧭 Research Vision — Bridging AI Simulation & Physical Deployment
 
-> *"Building and testing physical robots revealed how sensor noise, localization drift, and the gap between simulation and reality challenge autonomy—driving my goal to fuse AI perception, learning, and control into reliable real-world machines."*
+> *"Building and testing physical robots revealed how sensor noise, localization drift, and the gap between simulation and reality challenge autonomy driving my goal to fuse AI perception, learning, and control into reliable real-world machines."*
 
 My work sits at the intersection of **Artificial Intelligence and Physical Robotics**, focused on developing intelligent systems that operate safely and reliably in uncertain, dynamic environments alongside people, peer robots, and physical obstacles.
 
@@ -133,13 +133,13 @@ Multi-output LSTM &amp; cyber-physical digital twin modeling
 </tr>
 </table>
 
-<sub>Active objective: bridging AI robotics simulation (Webots/Gazebo) with physical hardware deployment under real-world uncertainty.</sub>
+<sub>Active objective: bridging AI robotics simulation with physical hardware deployment under real-world uncertainty.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/title-uplink.svg" width="100%" alt="06 // ESTABLISH UPLINK"/>
 
-Always open to research collaborations, PhD supervision discussions, and challenging robotics, vision &amp; AI engineering problems.
+Always open to research collaborations and challenging robotics, vision &amp; AI engineering problems.
 
 <br/>
 
