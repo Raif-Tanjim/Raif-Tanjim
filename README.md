@@ -32,7 +32,7 @@ Status:     ONLINE 🟢</code></pre>
 
 My work sits at the intersection of **Artificial Intelligence and Physical Robotics**, focused on developing intelligent systems that operate safely and reliably in uncertain, dynamic environments alongside people, peer robots, and physical obstacles.
 
-Rather than stopping at idealized simulations, I design end-to-end pipelines that connect **AI robotics simulation** (**Webots, Gazebo, Unity, MATLAB/Simulink**) with **physical embedded deployment** (**ROS/ROS2, LiDAR, IMU, Raspberry Pi, ESP32, STM32**). Across my research and engineering projects, I combine **computer vision**, **multi-sensor SLAM**, **reinforcement learning (PPO/MPC)**, and **time-series forecasting** to give physical platforms situational awareness, predictive foresight, and adaptive autonomy.
+Rather than stopping at idealized simulations, I design end-to-end pipelines that connect **AI robotics simulation**  with **physical embedded deployment** . Across my research and engineering projects, I combine **computer vision**, **multi-sensor SLAM**, **reinforcement learning (PPO/MPC)**, and **time-series forecasting** to give physical platforms situational awareness, predictive foresight, and adaptive autonomy.
 
 <div align="center">
 
