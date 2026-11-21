@@ -23,6 +23,6 @@ Role:       AI & Robotics Systems Researcher
 Origin:     Dhaka, Bangladesh 🇧🇩
 Primary:    Python / C++ / ROS2 / PyTorch / OpenCV
 Domains:    Robotics, Computer Vision, Machine Learning, Forecasting
-Focus:      Autonomous Navigation, Perception & Decision-Making Under Uncertainty
+Focus:      Embodied Intelligence & Decision-Making Under Uncertainty
 Collab:     Research Labs, PhD Supervision & Global R&D Teams
 Status:     ONLINE 🟢
