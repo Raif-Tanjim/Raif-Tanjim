@@ -1,0 +1,11 @@
+<svg width="1000" height="50" viewBox="0 0 1000 50" xmlns="http://www.w3.org/2000/svg">
+  <rect x="180" y="6" width="640" height="38" rx="7" fill="#090D16" stroke="#1E293B" stroke-width="1.5" />
+  <rect x="180" y="6" width="6" height="38" rx="2" fill="#818CF8" />
+  <circle cx="206" cy="25" r="4.5" fill="#34D399">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite" />
+  </circle>
+  <text x="500" y="30" text-anchor="middle" fill="#F8FAFC" font-family="monospace" font-size="16" font-weight="bold" letter-spacing="3">
+    05 // ACTIVE RESEARCH &amp; R&amp;D TRACKS
+  </text>
+  <text x="802" y="29" text-anchor="end" fill="#818CF8" font-family="monospace" font-size="10">[MISSIONS]</text>
+</svg>
