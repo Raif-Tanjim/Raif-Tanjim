@@ -81,7 +81,7 @@ Rather than stopping at idealized simulations, I design end-to-end pipelines tha
   <img src="https://img.shields.io/badge/Git_/_GitHub-090D16?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git"/>
 </p>
 
-<sub>LiDAR • IMU • Thermal Imaging (MLX90640) • Hardware-in-the-Loop Testing • SolidWorks • AutoCAD</sub>
+<sub>LiDAR • IMU • Thermal Imaging • Hardware-in-the-Loop Testing • SolidWorks • AutoCAD</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
