@@ -1,45 +1,28 @@
 <div align="center">
-  <img width="100%" src="./assets/hero-banner.svg" alt="Raif Tanjim Banner" />
 
-  <br/>
-
-  <!-- Sleek Floating Pill Badges -->
-  <p>
-    <a href="https://raif-tanjim.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
-    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-090D16?style=for-the-badge&logo=googlescholar&logoColor=818CF8" /></a>
-    <a href="https://linkedin.com/in/raif-tanjim"><img src="https://img.shields.io/badge/LINKEDIN-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-    <a href="mailto:raiftanjim@gmail.com"><img src="https://img.shields.io/badge/CONTACT-090D16?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
-  </p>
-</div>
+<img src="assets/banner.svg" width="100%" alt="3D Isometric Robotics Simulation & Multi-Agent Radar: Raif Tanjim"/>
 
 <br/>
 
-<!-- Asymmetric Split Showcase: Custom Animated Simulation + Bio -->
-<table>
-  <tr>
-    <td width="52%" valign="middle">
-      <h3><code>⚡ System Architecture &amp; Focus</code></h3>
-      <p>
-        Designing intelligent machines that perceive, reason, and navigate safely through complex, uncertain environments alongside humans and peer robots.
-      </p>
-      <p>
-        🔭 <b>Research:</b> Autonomous Navigation, Multi-Sensor Fusion &amp; RL<br/>
-        🧠 <b>Intelligence:</b> Deep Fault Diagnosis &amp; Spatiotemporal Forecasting<br/>
-        ⚙️ <b>Systems:</b> ROS/ROS2, LiDAR SLAM &amp; Cyber-Physical Digital Twins<br/>
-        📍 <b>Location:</b> Dhaka, Bangladesh
-      </p>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ros,opencv,linux,docker,git,matlab&perline=5&theme=dark" />
-    </td>
-    <td width="48%" align="center" valign="middle">
-      <img width="100%" src="./assets/robotics-hud.svg" alt="Multi-Agent Robotics Simulation HUD" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Raif-Tanjim"><img src="https://img.shields.io/badge/OPERATOR-Raif--Tanjim-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=090D16"/></a>
+<img src="https://img.shields.io/badge/DOMAIN-AI_%26_Robotics-818CF8?style=for-the-badge&logo=ros&logoColor=white&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/ORIGIN-Bangladesh-34D399?style=for-the-badge&labelColor=090D16"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-38BDF8?style=for-the-badge&labelColor=090D16"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <!-- Live Contribution Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raif-Tanjim&bg_color=090D16&color=38BDF8&line=818CF8&point=34D399&area=true&hide_border=true" />
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/title-identity.svg" width="100%" alt="01 // OPERATOR PROFILE"/>
+
 </div>
+
+```yaml
+Name:       Raif Tanjim
+Role:       AI & Robotics Systems Researcher
+Origin:     Dhaka, Bangladesh 🇧🇩
+Primary:    Python / C++ / ROS2 / PyTorch / OpenCV
+Domains:    Robotics, Computer Vision, Machine Learning, Forecasting
+Focus:      Autonomous Navigation, Perception & Decision-Making Under Uncertainty
+Collab:     Research Labs, PhD Supervision & Global R&D Teams
+Status:     ONLINE 🟢
