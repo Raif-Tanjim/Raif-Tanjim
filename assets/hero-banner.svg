@@ -1,0 +1,34 @@
+<svg width="900" height="190" viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0D1526" />
+      <stop offset="100%" stop-color="#09111E" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="190" rx="14" fill="url(#bgGrad)" stroke="#1E293B" stroke-width="1.5" />
+
+  
+  <path d="M 0 145 Q 225 105 450 145 T 900 145" fill="none" stroke="url(#accentGrad)" stroke-width="1.5" opacity="0.35">
+    <animate attributeName="d" values="M 0 145 Q 225 105 450 145 T 900 145; M 0 145 Q 225 185 450 145 T 900 145; M 0 145 Q 225 105 450 145 T 900 145" dur="6s" repeatCount="indefinite" />
+  </path>
+  <path d="M 0 155 Q 225 185 450 155 T 900 155" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.2">
+    <animate attributeName="d" values="M 0 155 Q 225 185 450 155 T 900 155; M 0 155 Q 225 115 450 155 T 900 155; M 0 155 Q 225 185 450 155 T 900 155" dur="8s" repeatCount="indefinite" />
+  </path>
+
+  
+  <text x="450" y="78" text-anchor="middle" fill="#F8FAFC" font-family="&#39;Segoe UI&#39;, Roboto, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="1.5">
+    RAIF TANJIM
+  </text>
+
+  
+  <text x="450" y="112" text-anchor="middle" fill="#38BDF8" font-family="monospace" font-size="14" letter-spacing="2">
+    AI &amp; ROBOTICS RESEARCHER  •  AUTONOMOUS &amp; CYBER-PHYSICAL SYSTEMS
+  </text>
+</svg>
