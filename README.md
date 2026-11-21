@@ -19,7 +19,6 @@
 
 <pre><code class="language-yaml">Name:       Raif Tanjim
 Role:       Robotics Engineer & AI Researcher 
-Education:  B.Sc. in EEE (Intelligent Robotics & Automation) — AIUB
 Origin:     Dhaka, Bangladesh 🇧🇩
 Primary:    Python / C++ / ROS & ROS2 / PyTorch / OpenCV
 Domains:    Robotics, Computer Vision, Machine Learning, Forecasting
