@@ -1,0 +1,82 @@
+<svg width="880" height="284" viewBox="0 0 880 284" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="gIndigo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+    <linearGradient id="gEmerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+    <style>
+      .bar-row:hover rect.bg-track { stroke: #38BDF8; }
+      .bar-row:hover text.domain-lbl { fill: #38BDF8; }
+    </style>
+  </defs>
+
+  <rect width="880" height="284" rx="12" fill="#090D16" stroke="#1E293B" stroke-width="1.5" />
+
+  
+  <g class="bar-row" transform="translate(28, 22)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">MACHINE LEARNING &amp; INTELLIGENT FAULT DIAGNOSIS</text>
+    <text x="824" y="14" text-anchor="end" fill="#34D399" font-family="monospace" font-size="12">94% [PUBLISHED]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="774" height="10" rx="5" fill="url(#gEmerald)">
+      <animate attributeName="width" from="0" to="774" dur="1.2s" fill="freeze" />
+    </rect>
+  </g>
+
+  
+  <g class="bar-row" transform="translate(28, 64)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">TIME-SERIES &amp; SPATIOTEMPORAL FORECASTING</text>
+    <text x="824" y="14" text-anchor="end" fill="#38BDF8" font-family="monospace" font-size="12">92% [PUBLISHED]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="758" height="10" rx="5" fill="url(#gCyan)">
+      <animate attributeName="width" from="0" to="758" dur="1.4s" fill="freeze" />
+    </rect>
+  </g>
+
+  
+  <g class="bar-row" transform="translate(28, 106)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">AUTONOMOUS ROBOTICS &amp; ROS / ROS2 SYSTEMS</text>
+    <text x="824" y="14" text-anchor="end" fill="#818CF8" font-family="monospace" font-size="12">89% [NAVIGATION &amp; CONTROL]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="733" height="10" rx="5" fill="url(#gIndigo)">
+      <animate attributeName="width" from="0" to="733" dur="1.6s" fill="freeze" />
+    </rect>
+  </g>
+
+  
+  <g class="bar-row" transform="translate(28, 148)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">COMPUTER VISION &amp; REAL-TIME PERCEPTION</text>
+    <text x="824" y="14" text-anchor="end" fill="#38BDF8" font-family="monospace" font-size="12">88% [DETECTION &amp; TRACKING]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="725" height="10" rx="5" fill="url(#gCyan)">
+      <animate attributeName="width" from="0" to="725" dur="1.8s" fill="freeze" />
+    </rect>
+  </g>
+
+  
+  <g class="bar-row" transform="translate(28, 190)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">LIDAR SLAM &amp; MULTI-SENSOR FUSION</text>
+    <text x="824" y="14" text-anchor="end" fill="#34D399" font-family="monospace" font-size="12">87% [3D MAPPING &amp; LOCALIZATION]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="716" height="10" rx="5" fill="url(#gEmerald)">
+      <animate attributeName="width" from="0" to="716" dur="2.0s" fill="freeze" />
+    </rect>
+  </g>
+
+  
+  <g class="bar-row" transform="translate(28, 232)">
+    <text class="domain-lbl" x="0" y="14" fill="#F8FAFC" font-family="monospace" font-size="13" font-weight="bold">REINFORCEMENT LEARNING &amp; MULTI-AGENT CONTROL</text>
+    <text x="824" y="14" text-anchor="end" fill="#818CF8" font-family="monospace" font-size="12">85% [UNCERTAINTY &amp; SIM2REAL]</text>
+    <rect class="bg-track" x="0" y="21" width="824" height="10" rx="5" fill="#0F172A" stroke="#1E293B" />
+    <rect x="0" y="21" width="700" height="10" rx="5" fill="url(#gIndigo)">
+      <animate attributeName="width" from="0" to="700" dur="2.2s" fill="freeze" />
+    </rect>
+  </g>
+</svg>
