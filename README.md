@@ -24,3 +24,4 @@ focus:
   - "Machine Learning & Reinforcement Learning for Control"
   - "Cyber-Physical Systems, Fault Diagnosis & Time-Series Forecasting"
 currently: "Building intelligent autonomy pipelines & open-source research tools"
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
