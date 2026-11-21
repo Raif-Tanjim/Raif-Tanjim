@@ -1,56 +1,45 @@
 <div align="center">
-
-  <!-- Animated Hero Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:1E293B&height=170&section=header&text=Raif%20Tanjim&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Robotics%20Researcher&descAlignY=58&descSize=16" />
-
-  <!-- Animated Terminal Subheader -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=35&lines=Autonomous+Robotics+%E2%80%A2+Multi-Agent+Navigation+%E2%80%A2+Sensor+Fusion;Applied+Machine+Learning+%E2%80%A2+Fault+Diagnosis+%E2%80%A2+Predictive+Forecasting;Decision-Making+Under+Uncertainty+%E2%80%A2+Cyber-Physical+Intelligence" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="./assets/hero-banner.svg" alt="Raif Tanjim Banner" />
 
   <br/>
 
-  <!-- Clean Social & Portfolio Links -->
+  <!-- Sleek Floating Pill Badges -->
   <p>
-    <a href="https://raif-tanjim.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
-    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-0F172A?style=for-the-badge&logo=googlescholar&logoColor=4285F4" alt="Google Scholar"/></a>
-    <a href="https://linkedin.com/in/raif-tanjim"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-    <a href="mailto:raiftanjim@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+    <a href="https://raif-tanjim.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-090D16?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-090D16?style=for-the-badge&logo=googlescholar&logoColor=818CF8" /></a>
+    <a href="https://linkedin.com/in/raif-tanjim"><img src="https://img.shields.io/badge/LINKEDIN-090D16?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+    <a href="mailto:raiftanjim@gmail.com"><img src="https://img.shields.io/badge/CONTACT-090D16?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
   </p>
-
 </div>
 
----
+<br/>
 
-<!-- Two-Column Visual Hero: Research Pillars + Simulation Visual -->
+<!-- Asymmetric Split Showcase: Custom Animated Simulation + Bio -->
 <table>
   <tr>
-    <td width="56%" valign="top">
-      <h3><code>// Research & Engineering Domains</code></h3>
+    <td width="52%" valign="middle">
+      <h3><code>⚡ System Architecture &amp; Focus</code></h3>
       <p>
-        Exploring how intelligent machines perceive, reason, and act reliably inside complex, uncertain environments alongside humans and dynamic agents.
+        Designing intelligent machines that perceive, reason, and navigate safely through complex, uncertain environments alongside humans and peer robots.
       </p>
-      <ul>
-        <li><b>Autonomous Systems & Robotics:</b> ROS/ROS2 pipelines, LiDAR-inertial SLAM, multi-sensor fusion, and socially aware navigation.</li>
-        <li><b>Learning Under Uncertainty:</b> Reinforcement learning, computer vision, and adaptive control for aerial and ground platforms.</li>
-        <li><b>Cyber-Physical Intelligence:</b> Deep learning fault diagnosis, spatiotemporal forecasting, and predictive analytics for energy & industrial systems.</li>
-      </ul>
+      <p>
+        🔭 <b>Research:</b> Autonomous Navigation, Multi-Sensor Fusion &amp; RL<br/>
+        🧠 <b>Intelligence:</b> Deep Fault Diagnosis &amp; Spatiotemporal Forecasting<br/>
+        ⚙️ <b>Systems:</b> ROS/ROS2, LiDAR SLAM &amp; Cyber-Physical Digital Twins<br/>
+        📍 <b>Location:</b> Dhaka, Bangladesh
+      </p>
       <br/>
-      <b>Core Stack:</b><br/>
-      <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ros,opencv,linux,docker,git,matlab&perline=5&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ros,opencv,linux,docker,git,matlab&perline=5&theme=dark" />
     </td>
-    <td width="44%" align="center" valign="middle">
-      <!-- Replace the src below with your own uploaded simulation GIF in /assets/sim.gif -->
-      <img width="100%" style="border-radius: 8px;" src="https://raw.githubusercontent.com/Raif-Tanjim/Raif-Tanjim/main/assets/sim.gif" alt="Autonomous Navigation Simulation" />
-      <br/>
-      <sub><i>Multi-agent perception & navigation in dynamic, uncertain environments</i></sub>
+    <td width="48%" align="center" valign="middle">
+      <img width="100%" src="./assets/robotics-hud.svg" alt="Multi-Agent Robotics Simulation HUD" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
-  <!-- Automated Contribution Snake Animation -->
-  <img width="100%" src="https://raw.githubusercontent.com/Raif-Tanjim/Raif-Tanjim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <!-- Live Contribution Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raif-Tanjim&bg_color=090D16&color=38BDF8&line=818CF8&point=34D399&area=true&hide_border=true" />
 </div>
